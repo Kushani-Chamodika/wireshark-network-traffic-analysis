@@ -80,6 +80,13 @@ Add the DNS screenshot here after uploading it:
 
 ![DNS query and response](screenshots/dns-analysis.png)
 -->
+### Packet Capture Files
+
+The filtered captures used in this analysis can be opened in Wireshark:
+
+- [ICMP capture](captures/icmp-analysis.pcapng)
+- [ARP capture](captures/arp-analysis.pcapng)
+- [DNS capture](captures/dns-analysis.pcapng)
 
 ## Learning Outcome
 
